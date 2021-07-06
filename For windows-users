@@ -1,0 +1,16 @@
+Builds for 2021
+(Kingslayer)
+
+It's probably worth starting with the installation of the system, because lamers complain that Linux is difficult to install, but I will tell you a little, little truth, Linux has a graphical (like on Vendian) installer with understandable Russian, English, etc. There is even an AUTO disk partitioning. The system does not bother with its reboots and eternal questions, and especially with this black screen with the text in the middle "We have almost completed the installation." After installation, you just restart your computer and lo and behold, everything works.
+
+Let's move on to programs, again there are programs that can replace other programs from the evil corporation. Photoshop - GIMP, Bandicam - OBS Studio, Office - OpenOffice / LibreOffice. In general, there are enough programs for the average man in the street and even more. If you need exactly the program that you can use, download Wine and run it there. It will work without errors with a 90% probability. If you do not want to use Wine, then look for similar programs on github or on the forums, there are 100% clones.
+
+Smoothly moving on to the topic of games, probably the favorite argument of Windows fans. I'll give you an interesting fact. It turns out that the exe file can be launched by 2 clicks of the mouse on the icon (OMFG) to do this, write in the "Wine" store, download it, then just click on the exe file and EVERYTHING. With games on the incentive it is even easier because there is a monster named Prothon that launches Windows games without problems (I give my head to stop), if suddenly there is an error in wine and you do not have a grain of brain to go to Google then download PlayOnLinux where everything is already configured and works competently. They also work in Wine.
+
+Now setting up the interface (KDE). IT'S DIFFICULT I AM DUMMY, just go to the settings and just make the interface as it suits YOU. KDE has just a million different settings to implement your options. Terminal or just take other graphical shells GNOME, XFCE, LXQT, i3, etc
+
+Let's talk about servers because the overwhelming majority work on Linux systems under the head of debian, Ubuntu, fedora. And without the knowledge of Linux OS, they won't take you anywhere (we mean about an IT company), and if they take the maximum amount of coffee.
+
+Everyone admires OS X, Andoid, ios systems and did you know that this is Linux? OS X I generally keep quiet people are so idiots that they buy free Linux for 1000 and more bucks. Well OS X is beautiful !!!! And what prevents to do the same on LINUX, there is even a special distribution kit (elementory OS). Only even without surveillance (oh).
+
+Let's talk about Viruses. There are practically no viruses on Linux. It is also important to note the openness of the programs, that is, the tracking is minimized to almost 0. And what is not important, thanks to this program, you can edit it to your taste and color. There are also Linux systems to anonymize your web surfing, isn't that cool? 
